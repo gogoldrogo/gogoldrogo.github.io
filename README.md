@@ -1,2 +1,2 @@
 # gogoldrogo.github.io
-WEBSITE
+This website is just for learning css and javascript
